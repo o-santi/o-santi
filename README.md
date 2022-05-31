@@ -7,4 +7,4 @@ i'm also not fond of capital letters.
 
 [![santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-santi)](https://github.com/anuraghazra/github-readme-stats)
 
-currently working on editing some journals (mainly xml and latex).
+working @ [Kindelia](https://github.com/Kindelia)
