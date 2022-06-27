@@ -6,5 +6,3 @@ i'm interested in maths, functional programming (specially type theory) and some
 i'm also not fond of capital letters.
 
 [![santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-santi)](https://github.com/anuraghazra/github-readme-stats)
-
-working @ [Kindelia](https://github.com/Kindelia)
