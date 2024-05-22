@@ -4,5 +4,3 @@
 i'm interested in maths, functional programming (specially type theory) and some functional-programming styled numerical computations (specially graphics). computer science graduate student @ UFRJ.
 
 i'm also not fond of capital letters.
-
-[![santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-santi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
